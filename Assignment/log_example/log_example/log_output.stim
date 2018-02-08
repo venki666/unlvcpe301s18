@@ -1,0 +1,18 @@
+$log PINB
+$log PIND
+$startlog mega328p_log_output.stim
+#20
+// Log TIMER0 counter
+$log TCNT0
+#5
+// Set pin PB0 to '1', Start PWM output
+PINB |= 0x01
+#5
+// Stop logging TIMER0 counter
+$unlog TCNT0
+#200
+// Set pin PB0 to '0', Stop PWM output
+PINB &= 0xFE
+#200
+$stoplog
+$break
