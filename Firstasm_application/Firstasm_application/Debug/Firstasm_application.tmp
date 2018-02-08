@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\venkim\Documents\Atmel Studio\7.0\Firstasm_application\Firstasm_application\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\venkim\Documents\Atmel Studio\7.0\Firstasm_application\Firstasm_application\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\venkim\Documents\Atmel Studio\7.0\Firstasm_application\Firstasm_application\Debug\Firstasm_application.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Firstasm_application.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Firstasm_application.map</FILE>
+  <FILE>Firstasm_application.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\venkim\Documents\Atmel Studio\7.0\Firstasm_application\Firstasm_application\main.asm</FILE><LINE>2</LINE></start>
+  <End><FILE>c:\users\venkim\Documents\Atmel Studio\7.0\Firstasm_application\Firstasm_application\main.asm</FILE><LINE>22</LINE></End>
+ </LABELS>
+</ASSEMBLER_INFO>
