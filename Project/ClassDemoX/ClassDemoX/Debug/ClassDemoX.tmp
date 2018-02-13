@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\venkim\Documents\Atmel Studio\7.0\ClassDemoX\ClassDemoX\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\venkim\Documents\Atmel Studio\7.0\ClassDemoX\ClassDemoX\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\venkim\Documents\Atmel Studio\7.0\ClassDemoX\ClassDemoX\Debug\ClassDemoX.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ClassDemoX.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ClassDemoX.map</FILE>
+  <FILE>ClassDemoX.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\venkim\Documents\Atmel Studio\7.0\ClassDemoX\ClassDemoX\main.asm</FILE><LINE>9</LINE></start>
+  <End><FILE>c:\users\venkim\Documents\Atmel Studio\7.0\ClassDemoX\ClassDemoX\main.asm</FILE><LINE>29</LINE></End>
+ </LABELS>
+</ASSEMBLER_INFO>
