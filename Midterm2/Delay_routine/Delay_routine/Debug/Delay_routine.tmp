@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\venkim\Documents\Atmel Studio\7.0\Delay_routine\Delay_routine\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\venkim\Documents\Atmel Studio\7.0\Delay_routine\Delay_routine\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\venkim\Documents\Atmel Studio\7.0\Delay_routine\Delay_routine\Debug\Delay_routine.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Delay_routine.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Delay_routine.map</FILE>
+  <FILE>Delay_routine.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\venkim\Documents\Atmel Studio\7.0\Delay_routine\Delay_routine\main.asm</FILE><LINE>13</LINE></start>
+  <Again><FILE>C:\Users\venkim\Documents\Atmel Studio\7.0\Delay_routine\Delay_routine\main.asm</FILE><LINE>15</LINE></Again>
+  <Here><FILE>C:\Users\venkim\Documents\Atmel Studio\7.0\Delay_routine\Delay_routine\main.asm</FILE><LINE>16</LINE></Here>
+ </LABELS>
+</ASSEMBLER_INFO>
